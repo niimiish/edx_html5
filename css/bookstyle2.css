@@ -7,13 +7,12 @@
  }
 
  h1 {
-  font-family: "Gadugi";
-  "Arial";
+  font-family: "Gadugi", "Arial", sans-serif;
   color: darkred;
  }
  
  li {
-  font-family: "Candara", "Verdana", "Calibri";
+  font-family: "Candara", "Verdana", "Calibri", sans-serif;
  }
 
 pre {
