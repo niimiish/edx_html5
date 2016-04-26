@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta lang="en"; http-equiv="Content-type" content="text/html; charset=utf-8">
+  <title>Book Shelf</title>
+  <link rel="stylesheet" href="css/bookstyle1.css">
+  <link rel="stylesheet" href="css/bookstyle2.css">
+</head>
+
+<body>
+<h1>Book Shelf</h1>
+<ol>
+  <li>A la Recherche de Temps Perdu<pre> - Marcel Proust, <span>published 1913</span></pre></li>
+  <li>Middlemarch <pre> - George Eliot, published 1871-72</pre></li>
+  <li>Ulysses<pre> - James Joyce, published 1922</pre></li>
+  <li>Don Quixote<pre> - Miguel de Cervantes, published 1605</pre></li>
+  <li>Moby Dick<pre> - Herman Melville, published 1851</pre></li>
+  <li>Hamlet<pre> - William Shakespeare, published 1603</pre></li>
+  <li>War and Peace<pre> - Leo Tolstoy, published 1869</pre></li>
+  <li>The Odyssey<pre> - Homer, written 800 B.C.E.</pre></li>
+  <li>The Great Gatsby<pre> - F. Scott Fitzgerald , published 1925</pre></li>
+  <li>The Divine Comedy<pre> -  Dante Alighieri, written 1308-20; published 1472</pre></li>
+  <li>Madame Bovary<pre> - Gustave Flaubert, published 1856</pre></li>
+  <li>The Brothers Karamazov<pre> - Fyodor Dostoyevsky,  published 1880</pre></li>
+  <li>One Hundred Years of Solitude<pre> - Gabriel García Márquez, published 1967</pre></li>
+  <li>The Iliad<pre> - Homer, written 762 B.C.E.</pre></li>
+  <li>Lolita<pre> - Vladimir Nabokov, published 1955</pre></li>
+  <li>Anna Karenina<pre> - Leo Tolstoy, published 1877</pre></li>
+  <li>Crime and Punishment<pre> - Fyodor Dostoyevsky, published 1866</pre></li>
+  <li>The Sound and the Fury<pre> - William Faulkner, published 1929</pre></li>
+  <li>Wuthering Heights<pre> - Emily Brontë, published 1847</pre></li>
+  <li>Le Rouge et le Noir<pre> - Stendhal, published 1830</pre></li>
+</ol>
+</body>
+
+</html>
