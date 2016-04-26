@@ -1,0 +1,23 @@
+/* fonts and colors */
+
+ html , body {
+  background-color: white;
+  font-family: "Verdana", "Calibri", sans-serif;
+  color: brown
+ }
+
+ h1 {
+  font-family: "Gadugi";
+  "Arial";
+  color: darkred;
+ }
+ 
+ li {
+  font-family: "Candara", "Verdana", "Calibri";
+ }
+
+pre {
+  font-family: "Kalinga", monospace;
+  font-size: 0.75em;
+  color: slategray
+}
