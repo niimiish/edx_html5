@@ -3,20 +3,27 @@
  html , body {
   background-color: white;
   font-family: "Verdana", "Calibri", sans-serif;
+  font-size: 22px;
   color: brown
  }
 
  h1 {
   font-family: "Gadugi", "Arial", sans-serif;
+  font-size: 2.25rem;
   color: darkred;
  }
  
  li {
   font-family: "Candara", "Verdana", "Calibri", sans-serif;
+  font-size: 1.25rem;
  }
 
 pre {
   font-family: "Kalinga", monospace;
   font-size: 0.75em;
   color: slategray
+}
+
+img {
+  zoom: 50%; 
 }
